@@ -64,7 +64,7 @@
 	
 	
 	
-	//$name = "Romil";
+	//$name = "vitali";
 	//echo "Tere ".$name;
 	
 	//var_dump("asdasdasdasd");
